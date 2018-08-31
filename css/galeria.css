@@ -1,0 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+div{
+	height: 200px;
+	width: 200px;
+	border: 2px solid black;
+	margin-left: 5px;
+	float: left;
+	padding: 7px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
